@@ -14,7 +14,7 @@ PD200491
 
 ---
 
-**Aviso**: El PDF con la carátula e imágenes de demostración se encuentra dentro del documento.
+**Aviso**: El PDF con la carátula e imágenes de demostración se encuentra dentro del repositorio.
 
 ---
 
